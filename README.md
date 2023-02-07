@@ -75,4 +75,5 @@ That’s it! By following these steps, you will have successfully connected your
 
 ---
 
-_Disclaimer: Using both Cloudflare's CDN and Netlify at the same time for one site is not recommended by either company. Netlify's web service works best without an additional CDN in front of it. Proxying through Netlify is not supported and may not give the best results. Cloudflare also does not recommend this setup. [Source](https://answers.netlify.com/t/how-do-i-use-cloudflare-dns-with-a-netlify-custom-domain/1557)_
+*Disclaimer: Using both Cloudflare's CDN and Netlify at the same time for one site is not recommended by either company. Netlify's web service works best without an additional CDN in front of it. Proxying through Netlify is not supported and may not give the best results. Cloudflare also does not recommend this setup.* *[Source](https://answers.netlify.com/t/support-guide-what-problems-could-occur-when-using-cloudflare-in-front-of-netlify/138)* *[Source](https://www.netlify.com/blog/2017/03/28/why-you-dont-need-cloudflare-with-netlify/)*
+
